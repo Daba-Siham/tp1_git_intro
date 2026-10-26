@@ -1,2 +1,2 @@
-print("Bienvenue au TP Git")
+print("Bienvenue dans la branche fonctionnalite.")
 print("Objectif : comprendre les commits.")
